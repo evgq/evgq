@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Evgeniy2006_444
+- 👋 Hi, I’m Evgeniy2006_444
 - 👀 I’m interested in windows application development, also web development
 - 🌱 I’m currently learning structure of the Vkontakte social network
 - 📫 You can contact me on the VKontakte social network by following the link: https://vk.com/id316481609
