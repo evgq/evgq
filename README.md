@@ -1,3 +1,4 @@
 - 👋 Hi, I’m Evgeniy Salagin
+- ⚒ I am actively engaged in testing various products
 - 👀 I’m currently learning structure of the VKontakte social network
-- 📫 You can contact me on the VKontakte social network by following the link: https://vk.com/id316481609
+- 📫 You can contact me on the VKontakte social network by following the link: https://vk.com/evg_q
